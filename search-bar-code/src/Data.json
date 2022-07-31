@@ -1,0 +1,23 @@
+[
+  {
+    "link": "pizza_peperoni",
+    "discount": 0.0,
+    "price": "15 K",
+    "product": "Pizza de peperoni",
+    "preparation time(minutes)": 30
+  },
+  {
+    "link": "pizza_mexicana",
+    "discount": 0.10,
+    "price": "15 K",
+    "product": "Pizza mexicana",
+    "preparation time(minutes)": 30
+  },
+  {
+    "link": "pizza_hawaiana",
+    "discount": 0.0,
+    "price": "15 K",
+    "product": "Pizza hawaiana",
+    "preparation time(minutes)": 30
+  }
+]
